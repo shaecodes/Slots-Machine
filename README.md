@@ -1,16 +1,16 @@
-# slotsmachine
+# The Slots Machine
 The Slot Machine Game is a Python-based virtual slot machine. Players can deposit money, place bets on lines, spin the machine to win or lose.
 Slot Machine Game
 This is a simple implementation of a slot machine game in Python. The game allows the player to deposit money, place bets on multiple lines, spin the slot machine, and win or lose money based on the outcome of the spin.
 
-Getting Started
+# Getting Started
 Clone the repository to your local machine using git clone or download the source code as a ZIP file.
 
 Open the slot_machine.py file in a Python IDE or text editor.
 
 Run the slot_machine.py file to start the game.
 
-Game Rules
+# Game Rules
 The player starts with a balance, which they can deposit to begin playing the game.
 
 The player can choose the number of lines they want to bet on, with a maximum of 3 lines.
@@ -27,7 +27,7 @@ The player can continue to play by pressing enter, or quit the game by typing 'q
 
 The game ends when the player decides to quit or runs out of balance.
 
-How to Play
+# How to Play
 Run the slot_machine.py file.
 
 Enter the amount you want to deposit to start the game.
@@ -40,7 +40,7 @@ If you win, the winnings are added to your balance. If you lose, the bet amount 
 
 Continue playing by pressing enter or quit the game by typing 'q'.
 
-Game Configuration
+# Game Configuration
 The game can be configured using the following constants defined in the slot_machine.py file:
 
 MAX_LINES: The maximum number of lines that can be bet on.
@@ -53,7 +53,7 @@ symbol_value: A dictionary that maps symbols to their corresponding values.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
-License
+# License
 This project is open-source and available under the MIT License.
 
 Enjoy playing the slot machine game!
