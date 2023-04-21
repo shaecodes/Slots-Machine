@@ -53,6 +53,9 @@ symbol_value: A dictionary that maps symbols to their corresponding values.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
+# Disclaimer
+While this program simulates a slot machine game, it is intended for entertainment purposes only. The use of this program does not condone or promote real-life gambling activities. It is important to gamble responsibly and be aware of the laws and regulations related to gambling in your jurisdiction. I am not responsible for any misuse or illegal activities related to gambling.
+
 # License
 This project is open-source and available under the MIT License.
 
