@@ -56,7 +56,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 # Disclaimer
 While this program simulates a slot machine game, it is intended for entertainment purposes only. The use of this program does not condone or promote real-life gambling activities. It is important to gamble responsibly and be aware of the laws and regulations related to gambling in your jurisdiction. I am not responsible for any misuse or illegal activities related to gambling.
 
-# License
-This project is open-source and available under the MIT License.
-
 Enjoy playing the slot machine game!
